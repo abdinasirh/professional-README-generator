@@ -52,7 +52,7 @@ const questions = [{
     },
       {
         type: "input",
-        name: "contributing",
+        name: "contributors",
         message: "List contributors for your app."
       },
       {
@@ -98,13 +98,6 @@ const questions = [{
 function writeToFile(fileName, data) {
     return fs.writeFileSync(path.join(process.cwd(), fileName), data)
 
-    // fs.writeFile('generated.md', generateMarkdown(data), function (error) {
-    //     if (error) {
-    //         console.log(error);
-    //     } else {
-    //         console.log('success! readme file has been generated');
-    //     }
-    // });
 }
 
 // TODO: Create a function to initialize app
@@ -114,7 +107,7 @@ function init() {
         .prompt(questions)
         .then((response) => {
             // console.log(response);
-            writeToFile('generated.md', generateMarkdown({ ...response}));
+            writeToFile('README.md', generateMarkdown({ ...response}));
         })
 
 }

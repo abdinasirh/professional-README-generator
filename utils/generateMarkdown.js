@@ -77,7 +77,7 @@ ${renderLicenseBadge(data.license)}
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
+* [Contributors](#contributors)
 * [Tests](#tests)
 * [Questions](#questions) 
 
@@ -92,8 +92,8 @@ ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
 
 
-## Contributing
-${data.contributing}
+## Contributors
+${data.contributors}
 
 ## Tests
 ${data.test}
