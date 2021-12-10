@@ -84,8 +84,6 @@ ${renderLicenseBadge(data.license)}
 ## Installation
 ${data.installation}
 
-[Demo](https://watch.screencastify.com/v/kvGUIR85xPzWeHE3lh6M)
-
 ## Usage
 ${data.usage}
 
@@ -105,6 +103,10 @@ ${data.test}
 If you have questions, you can reach me at 
 * Email: ${data.email}
 * Github: https://github.com/${data.username}
+
+You can watch video demonstration here: [Demo](https://watch.screencastify.com/v/kvGUIR85xPzWeHE3lh6M)
+
+![image](https://user-images.githubusercontent.com/68516914/145653494-1f6b20a7-1a71-434f-9d08-988ff491031b.png)
 
 
 `;

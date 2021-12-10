@@ -15,8 +15,6 @@ This application is built with Node.js and will generate a professional README f
 ## Installation
 clone the repo, install dependencies 'npm install inquirer' and run the program by typing 'node index.js' in the command line
 
-[Demo](https://watch.screencastify.com/v/kvGUIR85xPzWeHE3lh6M)
-
 ## Usage
 This application can be used by anyone who needs help with generating a professional README file.
 
@@ -36,5 +34,9 @@ Open the repo in VS code. run 'node index.js' and follow the prompt to answer th
 If you have questions, you can reach me at 
 * Email: abdinasirduud20@gmail.com
 * Github: https://github.com/abdinasirh
+
+You can watch video demonstration here: [Demo](https://watch.screencastify.com/v/kvGUIR85xPzWeHE3lh6M)
+
+![image](https://user-images.githubusercontent.com/68516914/145653494-1f6b20a7-1a71-434f-9d08-988ff491031b.png)
 
 
