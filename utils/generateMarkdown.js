@@ -84,6 +84,8 @@ ${renderLicenseBadge(data.license)}
 ## Installation
 ${data.installation}
 
+[Demo](https://watch.screencastify.com/v/kvGUIR85xPzWeHE3lh6M)
+
 ## Usage
 ${data.usage}
 
