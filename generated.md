@@ -2,7 +2,7 @@
 
 built with node
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 * [Installation](#installation)
@@ -19,8 +19,8 @@ built with node
 
 
 ## License
-Licensed with ISC. You can read more here:
-[ISC]("https://opensource.org/licenses/ISC")
+Licensed with MIT. You can read more here:
+[MIT](https://opensource.org/licenses/MIT)
 
 
 ## Contributing
@@ -31,7 +31,7 @@ Licensed with ISC. You can read more here:
 
 ## Questions
 
-if you have questions, you can reach me at 
+If you have questions, you can reach me at 
 * Email: abdinasirduud20@gmail.com
 * Github: https://github.com/abdinasirh
 

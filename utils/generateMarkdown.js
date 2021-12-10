@@ -26,17 +26,17 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
 
   if (license === "MIT"){
-    return `[${license}]("https://opensource.org/licenses/MIT")`
+    return `[${license}](https://opensource.org/licenses/MIT)`
   }
   else if(license === "APACHE 2.0"){
-    return `[${license}]("https://opensource.org/licenses/Apache-2.0")`
+    return `[${license}](https://opensource.org/licenses/Apache-2.0)`
   }
   else if(license === "ISC"){
-    return `[${license}]("https://opensource.org/licenses/ISC")`
+    return `[${license}](https://opensource.org/licenses/ISC)`
     
   }
   else if(license === "BSD 3-Clause"){
-    return `[${license}]("https://opensource.org/licenses/BSD-3-Clause")`
+    return `[${license}](https://opensource.org/licenses/BSD-3-Clause)`
   }
   else{
     return ""
